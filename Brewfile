@@ -13,6 +13,7 @@ cask "notion"
 cask "vlc"
 cask "rectangle"
 cask "docker"
+cask "grammarly-desktop"
 
 # VPN
 cask "viscosity"
