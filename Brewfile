@@ -28,5 +28,4 @@ cask "discord"
 mas "WhatsApp", id: 1147396723
 
 # IDE
-cask "pycharm"
 cask "visual-studio-code"
