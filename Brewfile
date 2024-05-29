@@ -20,7 +20,6 @@ cask "viscosity"
 
 # Password manager
 cask "1password"
-mas "Bitwarden", id: 1352778147
 
 # Chat
 cask "slack"
