@@ -29,3 +29,4 @@ mas "WhatsApp", id: 1147396723
 
 # IDE
 cask "visual-studio-code"
+cask "cursor"
