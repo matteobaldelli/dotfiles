@@ -14,6 +14,7 @@ cask "vlc"
 cask "rectangle"
 cask "docker"
 cask "grammarly-desktop"
+cask "nvm"
 
 # VPN
 cask "viscosity"
